@@ -1,0 +1,5 @@
+.well-known/appspecific/com.tesla.3p.public-key.pem
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVO1F89w04EmoqGPhFkbHlY24jNCu
+PJNCcdjmSPSnDPzdbB86vEAVgrC/C9pLh6t5uyqcowpXxQjqHny0kZEZDA==
+-----END PUBLIC KEY-----
